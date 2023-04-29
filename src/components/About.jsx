@@ -14,7 +14,7 @@ function About(){
                     <p className="text-xl">
                         I started coding in 2021. I have 2 years of experience building and designing applications.
                             I love to work on web application using technology like React, Tailwind, Django and GraphQl.
-                            Currently, I learning Docker and Cloud Technologies (like Google cloud). 
+                            Currently, I am learning Docker and Cloud Technologies (like Google cloud). 
                             I am available for internship and project opportunities 
                     </p>
                 </div>
